@@ -44,3 +44,11 @@ npx cypress open
 npx cypress run
 
 ```
+
+#
+
+
+  ![image](https://github.com/Gabrielssilvast/cypress-automation/assets/109055973/71ff9918-3e74-4b40-b4e0-71bec1677210)
+
+
+
